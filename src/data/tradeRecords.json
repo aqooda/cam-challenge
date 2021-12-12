@@ -1,0 +1,452 @@
+[
+  {
+    "ref": "T-FWD-1",
+    "productId": 5,
+    "brokerId": 1,
+    "date": "2021-11-30T22:53:35.773Z",
+    "qty": 32000,
+    "buySell": "S",
+    "price": 2.490305
+  },
+  {
+    "ref": "T-FWD-2",
+    "productId": 5,
+    "brokerId": 2,
+    "date": "2021-12-01T10:59:25.545Z",
+    "qty": 91000,
+    "buySell": "S",
+    "price": 6.579731
+  },
+  {
+    "ref": "T-FWD-3",
+    "productId": 5,
+    "brokerId": 3,
+    "date": "2021-12-01T13:32:11.893Z",
+    "qty": 26000,
+    "buySell": "S",
+    "price": 7.400389
+  },
+  {
+    "ref": "T-FWD-4",
+    "productId": 2,
+    "brokerId": 1,
+    "date": "2021-12-01T16:43:50.251Z",
+    "qty": 19000,
+    "buySell": "S",
+    "price": 3.453203
+  },
+  {
+    "ref": "T-FWD-5",
+    "productId": 2,
+    "brokerId": 1,
+    "date": "2021-12-01T18:50:04.949Z",
+    "qty": 87000,
+    "buySell": "S",
+    "price": 9.25752
+  },
+  {
+    "ref": "T-FWD-6",
+    "productId": 4,
+    "brokerId": 1,
+    "date": "2021-12-01T21:56:08.100Z",
+    "qty": 28000,
+    "buySell": "S",
+    "price": 1.324583
+  },
+  {
+    "ref": "T-FWD-7",
+    "productId": 5,
+    "brokerId": 2,
+    "date": "2021-12-02T08:56:18.854Z",
+    "qty": 58000,
+    "buySell": "S",
+    "price": 9.833045
+  },
+  {
+    "ref": "T-FWD-8",
+    "productId": 3,
+    "brokerId": 1,
+    "date": "2021-12-02T10:34:31.499Z",
+    "qty": 68000,
+    "buySell": "B",
+    "price": 6.305227
+  },
+  {
+    "ref": "T-FWD-9",
+    "productId": 2,
+    "brokerId": 2,
+    "date": "2021-12-03T02:57:06.717Z",
+    "qty": 76000,
+    "buySell": "S",
+    "price": 0.111745
+  },
+  {
+    "ref": "T-FWD-10",
+    "productId": 2,
+    "brokerId": 3,
+    "date": "2021-12-03T06:12:01.533Z",
+    "qty": 6000,
+    "buySell": "S",
+    "price": 7.001129
+  },
+  {
+    "ref": "T-FWD-11",
+    "productId": 1,
+    "brokerId": 3,
+    "date": "2021-12-03T07:58:44.656Z",
+    "qty": 13000,
+    "buySell": "B",
+    "price": 0.133102
+  },
+  {
+    "ref": "T-FWD-12",
+    "productId": 1,
+    "brokerId": 2,
+    "date": "2021-12-03T13:30:57.436Z",
+    "qty": 85000,
+    "buySell": "S",
+    "price": 6.204001
+  },
+  {
+    "ref": "T-FWD-13",
+    "productId": 1,
+    "brokerId": 1,
+    "date": "2021-12-03T17:01:41.334Z",
+    "qty": 90000,
+    "buySell": "S",
+    "price": 5.72758
+  },
+  {
+    "ref": "T-FWD-14",
+    "productId": 4,
+    "brokerId": 3,
+    "date": "2021-12-04T21:30:13.242Z",
+    "qty": 38000,
+    "buySell": "S",
+    "price": 3.32895
+  },
+  {
+    "ref": "T-FWD-15",
+    "productId": 2,
+    "brokerId": 3,
+    "date": "2021-12-05T02:18:25.245Z",
+    "qty": 59000,
+    "buySell": "B",
+    "price": 6.583551
+  },
+  {
+    "ref": "T-FWD-16",
+    "productId": 2,
+    "brokerId": 3,
+    "date": "2021-12-05T03:16:43.002Z",
+    "qty": 52000,
+    "buySell": "S",
+    "price": 7.041731
+  },
+  {
+    "ref": "T-FWD-17",
+    "productId": 2,
+    "brokerId": 3,
+    "date": "2021-12-05T05:43:24.960Z",
+    "qty": 63000,
+    "buySell": "B",
+    "price": 3.566585
+  },
+  {
+    "ref": "T-FWD-18",
+    "productId": 3,
+    "brokerId": 2,
+    "date": "2021-12-05T11:12:03.317Z",
+    "qty": 45000,
+    "buySell": "B",
+    "price": 0.337773
+  },
+  {
+    "ref": "T-FWD-19",
+    "productId": 5,
+    "brokerId": 1,
+    "date": "2021-12-05T18:01:48.787Z",
+    "qty": 27000,
+    "buySell": "B",
+    "price": 4.869392
+  },
+  {
+    "ref": "T-FWD-20",
+    "productId": 4,
+    "brokerId": 2,
+    "date": "2021-12-05T23:22:35.375Z",
+    "qty": 65000,
+    "buySell": "B",
+    "price": 1.738031
+  },
+  {
+    "ref": "T-FWD-21",
+    "productId": 3,
+    "brokerId": 2,
+    "date": "2021-12-06T05:58:33.882Z",
+    "qty": 33000,
+    "buySell": "B",
+    "price": 2.390911
+  },
+  {
+    "ref": "T-FWD-22",
+    "productId": 4,
+    "brokerId": 3,
+    "date": "2021-12-06T06:47:47.279Z",
+    "qty": 92000,
+    "buySell": "S",
+    "price": 4.992088
+  },
+  {
+    "ref": "T-FWD-23",
+    "productId": 3,
+    "brokerId": 3,
+    "date": "2021-12-06T11:25:04.791Z",
+    "qty": 77000,
+    "buySell": "S",
+    "price": 3.375533
+  },
+  {
+    "ref": "T-FWD-24",
+    "productId": 3,
+    "brokerId": 2,
+    "date": "2021-12-06T13:38:19.311Z",
+    "qty": 79000,
+    "buySell": "S",
+    "price": 9.675742
+  },
+  {
+    "ref": "T-FWD-25",
+    "productId": 4,
+    "brokerId": 2,
+    "date": "2021-12-06T14:38:51.212Z",
+    "qty": 80000,
+    "buySell": "B",
+    "price": 7.421145
+  },
+  {
+    "ref": "T-FWD-26",
+    "productId": 3,
+    "brokerId": 2,
+    "date": "2021-12-06T15:37:57.263Z",
+    "qty": 93000,
+    "buySell": "S",
+    "price": 9.416868
+  },
+  {
+    "ref": "T-FWD-27",
+    "productId": 5,
+    "brokerId": 2,
+    "date": "2021-12-06T15:51:01.797Z",
+    "qty": 0,
+    "buySell": "B",
+    "price": 6.410448
+  },
+  {
+    "ref": "T-FWD-28",
+    "productId": 5,
+    "brokerId": 2,
+    "date": "2021-12-07T04:43:57.755Z",
+    "qty": 31000,
+    "buySell": "S",
+    "price": 3.22084
+  },
+  {
+    "ref": "T-FWD-29",
+    "productId": 2,
+    "brokerId": 1,
+    "date": "2021-12-07T08:51:12.253Z",
+    "qty": 91000,
+    "buySell": "S",
+    "price": 7.909765
+  },
+  {
+    "ref": "T-FWD-30",
+    "productId": 2,
+    "brokerId": 3,
+    "date": "2021-12-07T15:57:26.111Z",
+    "qty": 8000,
+    "buySell": "B",
+    "price": 8.054858
+  },
+  {
+    "ref": "T-FWD-31",
+    "productId": 4,
+    "brokerId": 1,
+    "date": "2021-12-07T19:36:07.310Z",
+    "qty": 73000,
+    "buySell": "B",
+    "price": 3.762284
+  },
+  {
+    "ref": "T-FWD-32",
+    "productId": 2,
+    "brokerId": 1,
+    "date": "2021-12-08T03:32:45.252Z",
+    "qty": 54000,
+    "buySell": "B",
+    "price": 5.12947
+  },
+  {
+    "ref": "T-FWD-33",
+    "productId": 3,
+    "brokerId": 2,
+    "date": "2021-12-08T06:53:30.058Z",
+    "qty": 36000,
+    "buySell": "B",
+    "price": 0.624051
+  },
+  {
+    "ref": "T-FWD-34",
+    "productId": 1,
+    "brokerId": 3,
+    "date": "2021-12-08T08:11:49.008Z",
+    "qty": 34000,
+    "buySell": "B",
+    "price": 0.9236
+  },
+  {
+    "ref": "T-FWD-35",
+    "productId": 4,
+    "brokerId": 1,
+    "date": "2021-12-08T21:17:54.916Z",
+    "qty": 90000,
+    "buySell": "B",
+    "price": 0.446065
+  },
+  {
+    "ref": "T-FWD-36",
+    "productId": 5,
+    "brokerId": 1,
+    "date": "2021-12-09T05:59:56.369Z",
+    "qty": 29000,
+    "buySell": "S",
+    "price": 7.639246
+  },
+  {
+    "ref": "T-FWD-37",
+    "productId": 3,
+    "brokerId": 1,
+    "date": "2021-12-09T15:59:07.428Z",
+    "qty": 73000,
+    "buySell": "B",
+    "price": 8.027829
+  },
+  {
+    "ref": "T-FWD-38",
+    "productId": 3,
+    "brokerId": 3,
+    "date": "2021-12-09T18:37:26.906Z",
+    "qty": 22000,
+    "buySell": "S",
+    "price": 1.273167
+  },
+  {
+    "ref": "T-FWD-39",
+    "productId": 5,
+    "brokerId": 1,
+    "date": "2021-12-10T00:54:59.725Z",
+    "qty": 34000,
+    "buySell": "S",
+    "price": 2.200567
+  },
+  {
+    "ref": "T-FWD-40",
+    "productId": 3,
+    "brokerId": 1,
+    "date": "2021-12-10T07:12:59.429Z",
+    "qty": 97000,
+    "buySell": "S",
+    "price": 2.344051
+  },
+  {
+    "ref": "T-FWD-41",
+    "productId": 2,
+    "brokerId": 2,
+    "date": "2021-12-11T01:56:30.460Z",
+    "qty": 76000,
+    "buySell": "S",
+    "price": 6.099999
+  },
+  {
+    "ref": "T-FWD-42",
+    "productId": 4,
+    "brokerId": 2,
+    "date": "2021-12-11T03:17:35.385Z",
+    "qty": 21000,
+    "buySell": "B",
+    "price": 2.15673
+  },
+  {
+    "ref": "T-FWD-43",
+    "productId": 1,
+    "brokerId": 2,
+    "date": "2021-12-11T05:58:36.261Z",
+    "qty": 98000,
+    "buySell": "B",
+    "price": 3.992405
+  },
+  {
+    "ref": "T-FWD-44",
+    "productId": 1,
+    "brokerId": 3,
+    "date": "2021-12-11T09:56:17.134Z",
+    "qty": 92000,
+    "buySell": "S",
+    "price": 7.989476
+  },
+  {
+    "ref": "T-FWD-45",
+    "productId": 5,
+    "brokerId": 1,
+    "date": "2021-12-11T11:54:57.014Z",
+    "qty": 30000,
+    "buySell": "S",
+    "price": 8.952534
+  },
+  {
+    "ref": "T-FWD-46",
+    "productId": 2,
+    "brokerId": 1,
+    "date": "2021-12-11T14:48:27.599Z",
+    "qty": 30000,
+    "buySell": "S",
+    "price": 2.786113
+  },
+  {
+    "ref": "T-FWD-47",
+    "productId": 2,
+    "brokerId": 3,
+    "date": "2021-12-11T16:19:43.821Z",
+    "qty": 79000,
+    "buySell": "B",
+    "price": 7.604373
+  },
+  {
+    "ref": "T-FWD-48",
+    "productId": 3,
+    "brokerId": 1,
+    "date": "2021-12-12T03:10:08.525Z",
+    "qty": 11000,
+    "buySell": "S",
+    "price": 8.875716
+  },
+  {
+    "ref": "T-FWD-49",
+    "productId": 3,
+    "brokerId": 2,
+    "date": "2021-12-12T06:56:40.206Z",
+    "qty": 44000,
+    "buySell": "S",
+    "price": 6.15878
+  },
+  {
+    "ref": "T-FWD-50",
+    "productId": 1,
+    "brokerId": 1,
+    "date": "2021-12-12T07:46:44.890Z",
+    "qty": 25000,
+    "buySell": "B",
+    "price": 2.263956
+  }
+]

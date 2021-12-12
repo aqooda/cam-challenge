@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "FX Forward" },
+  { "id": 2, "name": "Bond Futures" },
+  { "id": 3, "name": "Interest Rate Swap" }
+]

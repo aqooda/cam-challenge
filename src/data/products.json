@@ -1,0 +1,7 @@
+[
+  { "id": 1, "typeId": 1, "name": "AUDUSD FRD Exp30Jun2022" },
+  { "id": 2, "typeId": 1, "name": "JPYUSD FRD Exp30Jun2022" },
+  { "id": 3, "typeId": 1, "name": "CNYUSD FRD Exp30Jun2022" },
+  { "id": 4, "typeId": 1, "name": "HKDUSD FRD Exp30Jun2022" },
+  { "id": 5, "typeId": 1, "name": "EURUSD FRD Exp30Jun2022" }
+]
